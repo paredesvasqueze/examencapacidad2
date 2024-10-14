@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.DefaultController",
+    "Method": "Get",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AlumnoController",
+    "Method": "InsertarAlumno",
+    "RelativePath": "Alumno/InsertarAlumno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oAlumno",
+        "Type": "CapaEntidad.Alumno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AlumnoController",
+    "Method": "ObtenerAlumno",
+    "RelativePath": "Alumno/ObtenerAlumno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

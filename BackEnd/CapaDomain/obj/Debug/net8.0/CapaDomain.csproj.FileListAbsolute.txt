@@ -1,0 +1,17 @@
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaDomain.deps.json
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaDomain.dll
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaDomain.pdb
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.csproj.AssemblyReference.cache
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.AssemblyInfoInputs.cache
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.AssemblyInfo.cs
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.csproj.CoreCompileInputs.cache
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.csproj.Up2Date
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.dll
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\refint\CapaDomain.dll
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\CapaDomain.pdb
+C:\Users\EDWIN\source\repos\BackEnd\CapaDomain\obj\Debug\net8.0\ref\CapaDomain.dll
